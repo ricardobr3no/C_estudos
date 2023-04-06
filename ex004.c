@@ -23,5 +23,5 @@ int main(){
     printf("a empresa gasta cerca de R$%.2f com esses funcionarios.\n", gasto1);
     printf("a  empresa  gastaria  R$%.2f se  fosse  dar  um  aumento  para quem recebe menos de R$4000.00.\n", gasto2);
     
-
+    return 0;
 }
